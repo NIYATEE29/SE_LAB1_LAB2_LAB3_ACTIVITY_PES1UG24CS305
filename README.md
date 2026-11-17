@@ -21,9 +21,9 @@ The system is designed to help people find their lost belongings. Users can repo
 
 Files are in the `LAB1/` folder.
 
-- **Requirements_Table_PES1UG24CS305.pdf** – Contains 5 functional and 2 non-functional requirements, along with their IDs, priorities, acceptance criteria and rationale.
-- **Use-Case_Diagram_PES1UG24CS305.pdf** – UML use-case diagram showing the actors and main use cases, including `<<include>>` and `<<extend>>` relationships.
-- **Use-Case Flow_PES1UG24CS305.pdf** – Describes a core use case with preconditions, postconditions, the main success scenario and an alternate flow.
+- **Requirements_Table_PES1UG24CS305.pdf** – Contains 5 functional (FR-001 to FR-005) and 2 non-functional (NFR-001, NFR-002) requirements with ID, Type, Description, Priority, Acceptance Criteria and Rationale.
+- **Use-Case_Diagram_PES1UG24CS305.pdf** – UML use-case diagram showing all three actors (Finder, Owner, Community Admin) and the main use cases, including `<<include>>` and `<<extend>>` relationships.
+- **Use-Case Flow_PES1UG24CS305.pdf** – One-page flow specification for UC-05 Claim Item, with preconditions, postconditions, the main success scenario and an alternate flow (incorrect answer).
 
 ---
 
@@ -75,7 +75,7 @@ This was to understand how bugs are recorded and tracked during development.
 
 ### Files
 
-- **Scrum_Project-Niyatee Singh_PES1UG24CS305-BPS#59 (1).pdf** – Scrum backlog, Epics, active sprint, burndown chart and reflection questions.
+- **Scrum_Project_PES1UG24CS305.pdf** – Epics and backlog, story points, active sprint, burndown chart and answers to the reflection questions.
 - **KANBAN.pdf** – Kanban board screenshots, user stories, subtasks and List view.
 - **BugReport.pdf** – Bug-tracking board with the reported defects.
 
@@ -87,7 +87,7 @@ Files are in the `LAB3/` folder.
 
 - **Lab3_Component_Diagram_PES1UG24CS305.png** – UML component diagram of the system.
 - **Lab3_Justification_PES1UG24CS305.pdf** – One-page justification for the chosen architecture.
-- **Lab3_Component_Diagram_PES1UG24CS305_v2.drawio** – Editable source file for the component diagram.
+- **Lab3_Justification_PES1UG24CS305.docx** – Word version of the justification.
 
 ### Architecture Chosen: Microservices
 
